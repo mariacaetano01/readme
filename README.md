@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @mariacaetano
+- 👋 Hi, I’m Maria Caetano
 - 👀 I’m new here and I wanna be a systems developer 
+but (maybe) I can change my mind during my college
 - 🌱 I’m currently learning Python 
 - 📫 You can send me letters by nanda2001caetano@gmail.com
 
