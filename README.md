@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python 
 - 👀 I’m new here and I want to be a systems developer 
 
-  but (maybe) I can change my mind during my college
 
 
 
